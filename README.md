@@ -43,6 +43,7 @@ Car 3: Mahindra Thar, Base Price: $150.0 per day
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository and submit a pull request.
 
+![Screenshot 2023-12-21 235928](https://github.com/Aayushi-4094/CarRentalExpress/assets/97082852/2c80aef8-bb5d-4542-8a28-059895e72e00)
 
 
 
